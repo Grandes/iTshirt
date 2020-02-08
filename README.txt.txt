@@ -3,3 +3,6 @@
 개발자 목록
 1. 고양이
 2. 문어
+
+origin/HEAD 를 바꾸고 싶을 때
+git remote set-head origin <remote branch name>
